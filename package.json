@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-toast",
+  "version": "1.0.0",
+  "description": "Toast Plugin",
+  "cordova": {
+    "id": "cordova-plugin-toast",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "android",
+    "toast",
+    "ecosystem:cordova",
+    "cordova-plugin"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "Apache 2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islainteractive/cordova-plugin-toast.git"
+  },
+  "bugs": {
+    "url": "https://github.com/islainteractive/cordova-plugin-toast/issues"
+  },
+  "homepage": "https://github.com/islainteractive/cordova-plugin-toast#readme"
+}
